@@ -1,4 +1,4 @@
-# HeroesMukaji
+# Mukaji: A Busca pelo Tesouro do Leste
 
 ## Autora
 Juliana Chaves Palm
